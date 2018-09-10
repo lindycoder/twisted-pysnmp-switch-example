@@ -1,0 +1,6 @@
+pyasn1==0.2.3
+pysnmp==4.3.4
+pyhamcrest==1.9
+flexmock==0.9.7
+mock==1.0.1
+Twisted[conch]>=16.6.0,<17.0
